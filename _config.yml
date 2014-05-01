@@ -11,7 +11,7 @@ pygments: true
 title : Nerve Cell Frisson
 tagline: NCF, NCF Group, Nerve, Neuron, Computing
 author :
-  name : Darwin Lee
+  name : XDarwinX
   email : zhelee.neu@gmail.com
   github : elasticdarwin
   twitter : username
@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : XDarwinX
     livefyre :
       site_id : 123
     intensedebate :
