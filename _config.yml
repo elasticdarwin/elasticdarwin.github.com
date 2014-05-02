@@ -98,3 +98,12 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+
+social:
+  title: "Take a Peep"
+  weibo: darwinlee
+
+
+
+

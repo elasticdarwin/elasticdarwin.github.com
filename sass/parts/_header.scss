@@ -390,8 +390,15 @@ $header-height: 30px;
 					border: 1px solid darken(#ef7522, 10%);
 				}
 			}
-      &.instagram{
+		        &.instagram{
 				background: image-url('social/instagram.png') center no-repeat rgb(64,110,149);
+				border: 1px solid rgb(64,110,149);
+				&:hover{
+					border: 1px solid darken(rgb(64,110,149), 10%);
+				}
+			}
+		        &.weibo{
+				background: image-url('social/weibo.png') center no-repeat rgb(64,110,149);
 				border: 1px solid rgb(64,110,149);
 				&:hover{
 					border: 1px solid darken(rgb(64,110,149), 10%);
