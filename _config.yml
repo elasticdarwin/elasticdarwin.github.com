@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.ncfgroup.us
+title: Nerve Cell Frisson
+subtitle: Nerve, Neuron, Idea, Thought, Computing
+author: Darwin
 simple_search: https://www.google.com/search
-description:
+description: A personal blog about Nerve, Neuron, Idea, Thought, Computing
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: XDarwinX
 disqus_show_comment_count: false
 
 # Google Analytics
