@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "virtualization reality"
+title: "Virtualization Reality"
 date: 2014-05-01 17:52:04 +0800
 comments: true
 categories: [随感]
