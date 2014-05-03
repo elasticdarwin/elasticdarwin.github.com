@@ -95,6 +95,7 @@ disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-50627346-1
+google_analytics_tracking_domain: ncfgroup.us
 
 # Facebook Like
 facebook_like: false
