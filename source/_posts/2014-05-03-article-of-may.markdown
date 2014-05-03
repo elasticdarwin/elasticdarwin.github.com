@@ -3,7 +3,7 @@ layout: post
 title: "5月美文"
 date: 2014-05-03 17:31:09 +0800
 comments: true
-categories: [悦读]
+categories: [陶冶]
 ---
 吃饭时看的这两篇感觉不错,
 

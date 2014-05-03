@@ -3,7 +3,7 @@ layout: post
 title: "Eve Fan(Beta)"
 date: 2014-05-03 18:32:33 +0800
 comments: true
-categories: [随感]
+categories: [设计]
 ---
 还是很喜欢Eve Online，喜欢它的世界观、shiny ships、游戏体验和游戏社区。  
 于是昨天找桌面壁纸时上官网看了看，发现正在举办fanfest，  
