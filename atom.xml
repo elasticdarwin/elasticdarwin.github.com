@@ -4,7 +4,7 @@
   <title><![CDATA[Nerve Cell Frisson]]></title>
   <link href="http://www.ncfgroup.us/atom.xml" rel="self"/>
   <link href="http://www.ncfgroup.us/"/>
-  <updated>2014-05-03T18:00:33+08:00</updated>
+  <updated>2014-05-03T20:13:46+08:00</updated>
   <id>http://www.ncfgroup.us/</id>
   <author>
     <name><![CDATA[Darwin]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Eve Fan(草稿)]]></title>
+    <link href="http://www.ncfgroup.us/blog/2014/05/03/eve-fan/"/>
+    <updated>2014-05-03T18:32:33+08:00</updated>
+    <id>http://www.ncfgroup.us/blog/2014/05/03/eve-fan</id>
+    <content type="html"><![CDATA[<p>还是很喜欢Eve Online，喜欢它的世界观、shiny ships、游戏体验和游戏社区。<br/>
+于是昨天找桌面壁纸时上官网看了看，发现正在举办fanfest，<br/>
+(ps: 貌似他们买了Google广告，居然刷到“fanfest”的第一个搜索结果了)<br/>
+他们同玩家的线下互动确实搞得很好，除了这个为期3天的fanfest，<br/>
+他们还有玩家委员会用以收集、评审游戏调整。</p>
+
+<p>话题偏了，我想说我对这个游戏印象很好，它是一个sandbox游戏，<br/>
+凭借一些基础元素玩家可以在其中从事类似现实社会的经济、政治活动，<br/>
+于是消耗大量时间和精力。。好吧，我的感情很复杂。<br/>
+偶尔想到两个不错的游戏概念，先记录一下，<br/>
+哪天游戏欲望克制不住时翻译成英文发给CCP。</p>
+
+<h4>虚拟竞技场</h4>
+
+<p>鉴于DOTA和LOL的火热，我觉得Eve也可以考虑走“短频快”路线，<br/>
+即，在原世界观中引入虚拟竞技场，玩家（舰船指挥官）可以在游戏中用那个世界中的电脑模拟战斗，<br/>
+就像现实世界相较互联网中的世界一样。</p>
+
+<p>玩法：<br/>
+每局战斗可以设置参与的总人数，<br/>
+和用以购买舰船/装备的总配置金额，<br/>
+设置遭遇场景（整编入场或随机分布）。</p>
+
+<p>辅助机制：<br/>
+战斗可被其他玩家观看或下注，有竞技场表现评级体系。</p>
+
+<p>交汇：<br/>
+可以帮助游戏内的玩家组织（企业）遴选战斗精英，<br/>
+就像是战斗等级考试一样。</p>
+
+<p>一些头绪：</p>
+
+<ul>
+<li>竞技场内部舰船/装备价格与外部世界中该物品的价格保持比例</li>
+<li>TODO：经济交互，也不能让玩家完全沉迷其中</li>
+</ul>
+
+
+<p>改天继续吧</p>
+
+<h4>舰船装配店与广告平台</h4>
+
+<p>以店面形式完善装配制造业
+以及为游戏内从业者提供展板、广告服务</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[5月美文]]></title>
