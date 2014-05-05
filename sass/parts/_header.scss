@@ -404,6 +404,13 @@ $header-height: 30px;
 					border: 1px solid darken(rgb(64,110,149), 10%);
 				}
 			}
+		        &.icon-cuncang{
+				background: image-url('social/cuncang.png') center no-repeat rgb(64,110,149);
+				border: 1px solid rgb(64,110,149);
+				&:hover{
+					border: 1px solid darken(rgb(64,110,149), 10%);
+				}
+			}
 		}
 	}
 }
