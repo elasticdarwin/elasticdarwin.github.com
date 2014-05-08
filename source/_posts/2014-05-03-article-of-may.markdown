@@ -12,3 +12,5 @@ categories: [陶冶]
 
 	note: 近半年来开始喜欢史铁生和余光中。
 
+- [感悟(网友：幽溪寒梅)](http://bbs.eweiqi.com/dispbbs.asp?boardid=2&Id=100255262)
+
