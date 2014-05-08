@@ -13,4 +13,7 @@ categories: [陶冶]
 	note: 近半年来开始喜欢史铁生和余光中。
 
 - [感悟(网友：幽溪寒梅)](http://bbs.eweiqi.com/dispbbs.asp?boardid=2&Id=100255262)
+- [读林海峰篇汇总(网友：独善棋身)](http://bbs.eweiqi.com/dispbbs.asp?boardid=2&Id=100254833)
+
+	note: 虽然不怎么下棋，偶尔还到弈城论坛上逛逛。
 
