@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5月流水账(5月20日更新)"
+title: "5月流水账"
 date: 2014-05-06 00:57:32 +0800
 comments: true
 categories: [随感]
