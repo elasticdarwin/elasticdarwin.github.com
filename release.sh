@@ -7,6 +7,8 @@ function check_error() {
 	fi
 }
 
+# rake setup_github_pages if needed
+
 rake generate
 check_error
 
