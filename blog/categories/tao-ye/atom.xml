@@ -4,7 +4,11 @@
   <title><![CDATA[Category: 陶冶 | Nerve Cell Frisson]]></title>
   <link href="http://www.ncfgroup.us/blog/categories/tao-ye/atom.xml" rel="self"/>
   <link href="http://www.ncfgroup.us/"/>
+<<<<<<< HEAD
   <updated>2014-06-05T23:19:38+08:00</updated>
+=======
+  <updated>2014-05-20T20:08:17+08:00</updated>
+>>>>>>> 032e960bcf56d91b733f07453d5044c127ecc2c7
   <id>http://www.ncfgroup.us/</id>
   <author>
     <name><![CDATA[Darwin]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[六月美文]]></title>
     <link href="http://www.ncfgroup.us/blog/2014/06/04/article-of-june/"/>
     <updated>2014-06-04T13:57:50+08:00</updated>
@@ -32,6 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[5月美文]]></title>
+=======
+    <title type="html"><![CDATA[5月美文(5月20日更新)]]></title>
+>>>>>>> 032e960bcf56d91b733f07453d5044c127ecc2c7
     <link href="http://www.ncfgroup.us/blog/2014/05/03/article-of-may/"/>
     <updated>2014-05-03T17:31:09+08:00</updated>
     <id>http://www.ncfgroup.us/blog/2014/05/03/article-of-may</id>
