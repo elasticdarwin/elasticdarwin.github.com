@@ -6,5 +6,6 @@ comments: true
 categories: [随感]
 ---
 
-我对这周的表现还算满意。
+- 我对这周的表现还算满意  
+"To rule yourself is the ultimate power." -- Seneca
 
