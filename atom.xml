@@ -4,7 +4,7 @@
   <title><![CDATA[Nerve Cell Frisson]]></title>
   <link href="http://www.ncfgroup.us/atom.xml" rel="self"/>
   <link href="http://www.ncfgroup.us/"/>
-  <updated>2014-09-01T09:55:47+08:00</updated>
+  <updated>2014-10-30T16:44:43+08:00</updated>
   <id>http://www.ncfgroup.us/</id>
   <author>
     <name><![CDATA[Darwin]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[10月流水账]]></title>
+    <link href="http://www.ncfgroup.us/blog/2014/10/30/daybook-of-october/"/>
+    <updated>2014-10-30T16:43:03+08:00</updated>
+    <id>http://www.ncfgroup.us/blog/2014/10/30/daybook-of-october</id>
+    <content type="html"><![CDATA[<p>我对这周的表现还算满意。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[8月流水账]]></title>
